@@ -1,0 +1,33 @@
+```gitignore
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+venu
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+```
