@@ -134,7 +134,7 @@ Government Engineering College, Challakere
 ### Connect with Me
 
 * GitHub: https://github.com/suryaprakashgowda
-* LinkedIn: https://www.linkedin.com/in/suryaprakashgowd
+* LinkedIn: https://www.linkedin.com/in/suryaprakashgowda
 
 ---
 
